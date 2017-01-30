@@ -1,4 +1,4 @@
-FROM boromino/php:5.6-apache
+FROM boromino/php:7.0-apache
 
 MAINTAINER Richard Papp "contact@boromino.com"
 
